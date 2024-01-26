@@ -1,0 +1,17 @@
+iframe{
+    width: 715px;
+    height: 350px;
+}
+
+#html{
+    margin-top: 30%;
+}
+.title{
+    width: 685px;
+    display: flex;
+    align-items: center;
+    background: rgba(31 31 31);
+    padding-left: 15px;
+    color: white;
+
+}
