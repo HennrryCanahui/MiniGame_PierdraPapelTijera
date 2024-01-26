@@ -11,22 +11,20 @@ let opcionPc;
 let imgJugador;
 let imgPc;
 
-
 const imagenes = [
     {
         name: "Piedra",
-        url: "\OPCIONES\Papel.png" // PIEDRA
+        url: "OPCIONES/Piedra.png"
     },
     {
         name: "Papel",
-        url: "\OPCIONES\Papel.png" //PAPEL
+        url: "OPCIONES/Papel.png"
     },
     {
         name: "Tijeras",
-        url: "\OPCIONES\Papel.png" //TIJERA
+        url: "OPCIONES/Tijeras.png"
     }
-];
-
+]
 
 
 function iniciar(){

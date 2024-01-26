@@ -8,6 +8,18 @@ body{
     height: auto;
 }
 
+video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+
+  }
+
+
+
+
+
 
 .campo-batalla{
     display: flex;
@@ -38,7 +50,7 @@ body{
 }
 
 .btn-ataques:hover{
-    border: 2px solid rgb(0, 255, 55);
+    border: 2px solid rgb(100, 213, 44);
     cursor: pointer;
     margin: 18px;
 }
